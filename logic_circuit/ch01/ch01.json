@@ -1,1 +1,13 @@
-{"brand" : "Hyundai", "model" : "Kona", "price" : 30000, "img" : "https://codingapple1.github.io/kona.jpg"}
+{
+	"id": 1,
+	"username": "Bret",
+	"email": "Sincere@april.biz",
+	"address": {
+		"street": "Kulas Light",
+		"suite": "Apt. 556",
+		"city": "Gwenborough",
+		"zipcode": "92998-3874"
+	},
+	"admin": false,
+	"hobbies": null
+}
