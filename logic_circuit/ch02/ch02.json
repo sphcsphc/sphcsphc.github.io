@@ -1,0 +1,74 @@
+[
+	{
+		"subject": "logic_circuit",
+		"num": 1,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-1.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-1.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 2,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-2.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-2.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 3,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-3.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-3.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 4,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-4.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-4.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 5,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-5.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-5.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 6,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-6.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-6.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 7,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-7.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-7.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 8,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-8.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-8.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 9,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-9.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-9.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 10,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-10.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-10.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 11,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-11.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-11.png"
+	},
+	{
+		"subject": "logic_circuit",
+		"num": 12,
+		"problem": "https://sphcsphc.github.io/logic_circuit/ch02/problem/2-12.png",
+		"solution": "https://sphcsphc.github.io/logic_circuit/ch02/solution/2-12.png"
+	}
+]
