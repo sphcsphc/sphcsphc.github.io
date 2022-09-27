@@ -2,7 +2,7 @@
 	{
 		"subject": "logic_circuit",
 		"num": 1,
-		"problem": "비트(bit)에 대한 설명 중 옳지 않은 것은?",
+		"problem": "Q. 비트(bit)에 대한 설명 중 옳지 않은 것은?",
 		"a": "정보를 나타내는 최소 단위이다."
 		"b": "binary digit의 약자이다."
 		"c": "2진수로 표시되는 정보를 나타내기 알맞다."
