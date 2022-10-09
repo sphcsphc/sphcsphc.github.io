@@ -1,0 +1,98 @@
+[
+	{
+		"subject": "전자회로",
+		"num": 1,
+		"problem": "Q1. 반파 정류기에서 신호의 직류값은?",
+		"ProHasImg": "False",
+		"1": "2Vp/π",
+		"2": "Vp/π",
+		"3": "Vp/2π",
+		"4": "Vp/4π",
+		"answer": 2,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-1.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 2,
+		"problem": "Q2. 브리지정류기의 출력전압은 어떤 신호인가?",
+		"ProHasImg": "False",
+		"1": "반파신호",
+		"2": "전파신호",
+		"3": "브리지 정류된 신호",
+		"4": "사인파",
+		"answer": 2,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-2.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 3,
+		"problem": "Q3. 만약 선전압이 115Vrms이면 권선비 5:1일 때\n     실효 2차 전압은?",
+		"ProHasImg": "False",
+		"1": "15V",
+		"2": "23V",
+		"3": "30V",
+		"4": "35V",
+		"answer": 2,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-3.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 4,
+		"problem": "Q4. 만일 선주파수가 60Hz이면 브리지 정류기의\n     출력 주파수는?",
+		"ProHasImg": "False",
+		"1": "30Hz",
+		"2": "60Hz",
+		"3": "120Hz",
+		"4": "240Hz",
+		"answer": 3,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-4.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 5,
+		"problem": "Q5. 반파정류기에서 선전압이 105Vrms만큼\n     낮아지거나 혹은 125Vrms만큼 높아질 수 있다고\n     가정한다. 5:1의 강압 변압기이면\n     최소 피크 부하 전압은?",
+		"ProHasImg": "False",
+		"1": "21V",
+		"2": "25V",
+		"3": "29.7V",
+		"4": "35.4V",
+		"answer": 3,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-5.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 6,
+		"problem": "Q6. 파형의 양 혹은 음의 부분을 제거하는 회로는?",
+		"ProHasImg": "False",
+		"1": "클램퍼",
+		"2": "클리퍼",
+		"3": "다이오드 클램프",
+		"4": "리미터",
+		"answer": 2,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-6.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 7,
+		"problem": "Q7. 클램퍼 회로가 적절히 동작하려면 시정수는?",
+		"ProHasImg": "False",
+		"1": "신호의 주기 T와 같아야한다.",
+		"2": "신호의 주기 T보다 100배 이상 커야한다.",
+		"3": "신호의 주기 T보다 10배 이상 커야한다.",
+		"4": "신호의 주기 T보다 10 이하 작아야한다.",
+		"answer": 2,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-7.png"
+	},
+	{
+		"subject": "전자회로",
+		"num": 8,
+		"problem": "Q8. 브리지정류기에서 2차 전압이 20Vrms이면\n     각 다이오드의 PIV는?",
+		"ProHasImg": "False",
+		"1": "14.1V",
+		"2": "20V",
+		"3": "28.3V",
+		"4": "34V",
+		"answer": 3,
+		"solution": "https://sphcsphc.github.io/electronic_circuit/ch04/solution/4-8.png"
+	}
+]
