@@ -2,19 +2,19 @@
 	{
 		"subject": "논리회로",
 		"num": 1,
-		"problem": "Q1. NOT 게이트에 대한 설명으로 옳은 것은?",
+		"problem": "NOT 게이트에 대한 설명으로 옳은 것은?",
 		"ProHasImg": "False",
 		"1": "입력이 1일 때 출력이 0이다.",
 		"2": "두 입력이 모두 1일 때 출력이 1이다.",
-		"3": "두 개의 입력이 서로 같지 않다면\n출력이 1이다.",
-		"4": "두 입력 중 어느 하나의 입력이 1이면\n출력이 0이다.",
+		"3": "두 개의 입력이 서로 같지 않다면 출력이 1이다.",
+		"4": "두 입력 중 어느 하나의 입력이 1이면 출력이 0이다.",
 		"answer": 1,
 		"solution": "https://sphcsphc.github.io/logic_circuit/ch04/solution/4-1.png"
 	},
 	{
 		"subject": "논리회로",
 		"num": 2,
-		"problem": "Q2. 진리표에 해당하는 게이트는?",
+		"problem": "진리표에 해당하는 게이트는?",
 		"ProHasImg": "True",
 		"picture": "https://sphcsphc.github.io/logic_circuit/ch04/problem/4-2.png",
 		"1": "AND 게이트",
@@ -27,7 +27,7 @@
 	{
 		"subject": "논리회로",
 		"num": 3,
-		"problem": "Q3. 진리표에 해당하는 논리식으로 옳은 것은?",
+		"problem": "진리표에 해당하는 논리식으로 옳은 것은?",
 		"ProHasImg": "True",
 		"picture": "https://sphcsphc.github.io/logic_circuit/ch04/problem/4-3.png",
 		"1": "F = A'B + AB'",
@@ -40,7 +40,7 @@
 	{
 		"subject": "논리회로",
 		"num": 4,
-		"problem": "Q4. 10110 ⊕ 01110 = ?",
+		"problem": "10110 ⊕ 01110 = ?",
 		"ProHasImg": "False",
 		"1": "00111",
 		"2": "00110",
@@ -52,10 +52,10 @@
 	{
 		"subject": "논리회로",
 		"num": 5,
-		"problem": "Q5. Exclusive-OR 설명으로 옳은 것은?",
+		"problem": "Exclusive-OR 설명으로 옳은 것은?",
 		"ProHasImg": "False",
-		"1": "입력이 같을 때 출력은 1이고\n서로 다를 때 출력은 0이다.",
-		"2": "입력이 같을 때 출력은 0이고\n서로 다를 때 출력은 1이다.",
+		"1": "입력이 같을 때 출력은 1이고 서로 다를 때 출력은 0이다.",
+		"2": "입력이 같을 때 출력은 0이고 서로 다를 때 출력은 1이다.",
 		"3": "동치 게이트(equivalence gate)이다.",
 		"4": "MOD-2 합산 형태로 취급할 수 없다.",
 		"answer": 2,
@@ -64,7 +64,7 @@
 	{
 		"subject": "논리회로",
 		"num": 6,
-		"problem": "Q6. 회로의 출력과 일치하는 것은?",
+		"problem": "회로의 출력과 일치하는 것은?",
 		"ProHasImg": "True",
 		"picture": "https://sphcsphc.github.io/logic_circuit/ch04/problem/4-6.png",
 		"1": "Y = AB + A'B'",
@@ -79,7 +79,7 @@
 	{
 		"subject": "논리회로",
 		"num": 7,
-		"problem": "Q7. 특정 비트를 반전시킬 때 사용하는 연산은?",
+		"problem": "특정 비트를 반전시킬 때 사용하는 연산은?",
 		"ProHasImg": "False",
 		"1": "AND",
 		"2": "OR",
@@ -91,7 +91,7 @@
 	{
 		"subject": "논리회로",
 		"num": 8,
-		"problem": "Q8. 입력 A=1, B=0 일 때 출력 X, Y의 값은?",
+		"problem": "입력 A=1, B=0 일 때 출력 X, Y의 값은?",
 		"ProHasImg": "True",
 		"picture": "https://sphcsphc.github.io/logic_circuit/ch04/problem/4-8.png",
 		"1": "X=1, Y=1",
@@ -104,7 +104,7 @@
 	{
 		"subject": "논리회로",
 		"num": 9,
-		"problem": "Q9. 입력 A=1010, B=1100 일 때\n     출력 Y의 값은?",
+		"problem": "입력 A=1010, B=1100 일 때 출력 Y의 값은?",
 		"ProHasImg": "True",
 		"picture": "https://sphcsphc.github.io/logic_circuit/ch04/problem/4-9.png",
 		"1": "1100",
@@ -117,7 +117,7 @@
 	{
 		"subject": "논리회로",
 		"num": 10,
-		"problem": "Q10. 입력 A=B=C=1 일 때 출력 X와 Y의 값은?",
+		"problem": "입력 A=B=C=1 일 때 출력 X와 Y의 값은?",
 		"ProHasImg": "True",
 		"picture": "https://sphcsphc.github.io/logic_circuit/ch04/problem/4-10.png",
 		"1": "X=1, Y=0",
