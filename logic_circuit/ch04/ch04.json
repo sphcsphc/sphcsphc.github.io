@@ -71,8 +71,6 @@
 		"2": "Y = A'B' + AB'",
 		"3": "Y = AB' + AB",
 		"4": "Y = AB' + A'B",
-		"ProIsText": "False",
-		"ExaIsText": "False",
 		"answer": 4,
 		"solution": "https://sphcsphc.github.io/logic_circuit/ch04/solution/4-6.png"
 	},

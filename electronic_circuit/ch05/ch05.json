@@ -40,7 +40,7 @@
 		"num": 4,
 		"problem": "제너 다이오드가 항복 영역에서 동작하는가?",
 		"ProHasImg": "True",
-		"picture": "https://sphcsphc.github.io/logic_circuit/ch05/problem/5-4.png",
+		"picture": "https://sphcsphc.github.io/electronic_circuit/ch05/problem/5-4.png",
 		"1": "동작한다.",
 		"2": "동작하지 않는다.",
 		"3": "False",
