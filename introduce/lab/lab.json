@@ -13,7 +13,7 @@
 		"name": "정강률 교수님",
 		"info": "전기기계, 전자회로, 전력전자, 아날로그회로",
 		"study": [
-			"회로설계, 전력전자 분야",
+			"회로설계, 전력전자 분야 연구",
 			"ex) 220v를 380V 변환해서 원하는 전력으로 만들어주는 전력변환회로에 대해 연구"
 		],
 		"picture": "empty"
@@ -23,8 +23,8 @@
 		"name": "이호년 교수님",
 		"info": "반도체, 전자회로, 반도체공정",
 		"study": [
-			"PEIE를 이용한 효율적인 QLED 제조공정",
-			"Transient EL을 이용한 QLED 소자특성연구",
+			"PEIE를 이용한 효율적인 QLED 제조 공정",
+			"Transient EL을 이용한 QLED 소자특성 연구",
 			"2차원 반도체 물질을 이용하여 높은 효율의 TFT 소자 제작"
 		],
 		"picture": "https://sphcsphc.github.io/introduce/lab/picture/TSD.png"
@@ -32,13 +32,13 @@
 	{
 		"lab_name": "로보틱스",
 		"name": "최혁두 교수님",
-		"info": "반도체, 전자회로, 반도체공정",
+		"info": "C, C++ 프로그래밍, python, 로봇공학, 마이크로프로세서, 시스템 프로그래밍",
 		"study": [
 			"자율주행운반로봇 연구",
 			"팀 프로젝트 경험",
 			"ROS, 머신러닝, 딥러닝에 대해 학습"
 		],
-		"picture": "https://sphcsphc.github.io/introduce/lab/picture/Robot.jpg"
+		"picture": "https://sphcsphc.github.io/introduce/lab/picture/Robot.png"
 	},
 	{
 		"lab_name": "N&D",
