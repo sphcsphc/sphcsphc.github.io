@@ -1,10 +1,10 @@
 [
 	{
-		"lab_name": "전력시스탬",
+		"lab_name": "전력시스템",
 		"name": "김홍래 교수님",
 		"info": "전력공학, 전기기계, 전자회로, 마이크로프로세서, 전력전자, 아날로그회로, 전력시스템해석",
 		"study": [
-			"조류계산, 수치해석 대해 연구"
+			"전력시스템 모델링, 상태추정, 전력계통 해석"
 		],
 		"picture": "https://sphcsphc.github.io/introduce/lab/picture/Power.png"
 	},
@@ -16,7 +16,7 @@
 			"회로설계, 전력전자 분야 연구",
 			"ex) 220v를 380V 변환해서 원하는 전력으로 만들어주는 전력변환회로에 대해 연구"
 		],
-		"picture": "empty"
+		"picture": "https://sphcsphc.github.io/introduce/lab/picture/Converter.png"
 	},
 	{
 		"lab_name": "TSD",
